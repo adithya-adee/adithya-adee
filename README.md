@@ -60,3 +60,4 @@
 
 [![@adithya-adee's GitHub stats](https://github-readme-stats-kappa-eosin.vercel.app/api?username=adithya-adee&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+[![Top Langs](https://github-readme-stats-kappa-eosin.vercel.app/api/top-langs/?username=adithya-adee&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
