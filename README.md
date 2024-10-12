@@ -2,7 +2,6 @@
 <h3 align="center">Web Developer & DSA Enthusiast</h3>
 
 - 🌱 I’m currently learning **ThreeJS, DSA**  
-- 💬 Ask me about **MERN, NextJS**
 
 ---
 
@@ -57,3 +56,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
 </p>
+
+[![@adithya-adee's GitHub stats](https://github-readme-stats-kappa-eosin.vercel.app/api?username=adithya-adee&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<br>
