@@ -2,6 +2,14 @@
 
 Full-stack developer passionate about building scalable web applications. Currently seeking internship opportunities.
 
+## 📫 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithya25905@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-a-8bb28128a/)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AdithyaA548097)
+[![Peerlist](https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/glitchy_moon)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Glithcy_moon_69)
+
 ## 🚀 Featured Projects
 
 ### 🦀 [Crab Clean](https://github.com/adithya-adee/crab-clean) - CLI System Declutter Tool
@@ -75,14 +83,6 @@ Full-stack developer passionate about building scalable web applications. Curren
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=adithya-adee&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
-
-## 📫 Let's Connect!
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithya25905@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-a-8bb28128a/)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AdithyaA548097)
-[![Peerlist](https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/glitchy_moon)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Glithcy_moon_69)
 
 ---
 
