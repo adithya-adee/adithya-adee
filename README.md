@@ -50,14 +50,14 @@ let glitchymoon = Developer {
 };
 ```
 
-**📈 github stats**
+<!-- **📈 github stats**
 
-<!-- <a href="https://github.com/adithya-adee">
+<a href="https://github.com/adithya-adee">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adithya-adee&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</a> -->
+</a> 
 <a href="https://github.com/adithya-adee">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-adee&theme=dark&hide_border=true" />
-</a>
+</a> -->
 
 **🎯 featured projects**
 
