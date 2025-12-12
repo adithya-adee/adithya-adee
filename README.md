@@ -1,14 +1,7 @@
-## 🌙 Adithya A (glitchymoon)
-
-**Rust** · **Zero-Knowledge** · **Privacy-First** · **Blockchain**
-
-Self-taught developer building privacy-preserving systems with zero-knowledge proofs. Currently seeking full-time backend/Solana roles.
-
----
 
 ### 👨‍💻 About Me:
 
-🚀 Backend engineer obsessed with performance & privacy  
+🚀 Backend engineer obsessed with performance,design & privacy  
 📦 Built [crab-clean](https://crates.io/crates/crab-clean) — 900+ downloads on crates.io  
 🔐 Deep diving into zk-SNARKs, building **SolidKYC** (zero-knowledge identity on Solana)  
 ⚡ **50-80%** production API optimization through profiling & system design  
@@ -16,18 +9,15 @@ Self-taught developer building privacy-preserving systems with zero-knowledge pr
 💡 Always exploring and expanding horizons  
 🎯 Eager to contribute to open source
 
+<!--
 ```rust
 impl Developer for GlitchyMoon {
     fn current_focus(&self) -> Vec<&str> {
-        vec![
-            "async rust (tokio/axum)",
-            "zero-knowledge proofs",
-            "distributed systems",
-            "blockchain protocols"
-        ]
+        vec!["async rust (tokio/axum)", "zk-SNARKS", "solana protocols"]
     }
 }
 ```
+-->
 
 ---
 
