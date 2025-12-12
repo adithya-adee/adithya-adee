@@ -1,22 +1,31 @@
-name: Update README with Recent Activity
+name: Update README Activity
 
 on:
   schedule:
-    # Runs every 6 hours
+    # Runs every 3 hours (adjust this cron expression if needed)
     - cron: '0 */6 * * *'
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
-    name: Update Profile README
-
-    steps:
-      - uses: actions/checkout@v3
+    permissions:
+      # This is required to allow the action to commit changes to the README
+      contents: write
       
+    steps:
+      # Step 1: Check out the repository code
+      - uses: actions/checkout@v4
+      
+      # Step 2: Run the GitHub Activity Action
       - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Update recent activity'
+          # Your GitHub username (it should be 'adithya-adee')
+          # GH_USERNAME: adithya-adee
+          # Limit the number of activities shown (5 is concise)
           MAX_LINES: 5
+          # Optional: Customize the commit message
+          COMMIT_MSG: '📝 Update README with recent activity feed'
+        env:
+          # Required for authentication and getting activity details
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
