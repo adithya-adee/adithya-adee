@@ -59,6 +59,11 @@ let glitchymoon = Developer {
 ```
 
 ---
+### ⚡ recent activity
+   
+   <!--RECENT_ACTIVITY:start-->
+   <!--RECENT_ACTIVITY:end-->
+---
 
 ### 🎯 featured projects
 
