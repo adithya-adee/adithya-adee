@@ -62,6 +62,11 @@ let glitchymoon = Developer {
 ### ⚡ recent activity
 
 <!--START_SECTION:activity-->
+1. ❌ Merged PR [#9](undefined) in [adithya-adee/SolidKYC](https://github.com/adithya-adee/SolidKYC)
+2. ❌ Labeled PR [#9](undefined) in [adithya-adee/SolidKYC](https://github.com/adithya-adee/SolidKYC)
+3. 💪 Opened PR [#9](undefined) in [adithya-adee/SolidKYC](https://github.com/adithya-adee/SolidKYC)
+4. ❌ Assigned PR [#9](undefined) in [adithya-adee/SolidKYC](https://github.com/adithya-adee/SolidKYC)
+5. ❌ Merged PR [#8](undefined) in [adithya-adee/SolidKYC](https://github.com/adithya-adee/SolidKYC)
 <!--END_SECTION:activity-->
 ---
 
