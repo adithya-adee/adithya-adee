@@ -1,20 +1,20 @@
-## 🌙 Adithya A
+## 🌙 Adithya A (glitchymoon)
 
 **Rust** · **Zero-Knowledge** · **Privacy-First** · **Blockchain**
 
-Self-taught developer building privacy-preserving systems. Currently seeking full-time backend/Solana roles.
-
-Building **SolidKYC** - privacy-preserving identity verification using zero-knowledge proofs on Solana.
+Self-taught developer building privacy-preserving systems with zero-knowledge proofs. Currently seeking full-time backend/Solana roles.
 
 ---
 
-### about me
+### 👨‍💻 About Me:
 
-- 💼 Backend engineer focused on performance & privacy
-- 📦 Built [crab-clean](https://crates.io/crates/crab-clean) — 900+ downloads on crates.io
-- 🔐 Deep diving into zk-SNARKs, building SolidKYC (zero-knowledge identity)
-- ⚡ **50-80%** production API optimization through profiling & system design
-- 🏆 **Top 3%** - 11th place @ IEEE Summer of Code (500+ participants)
+🚀 Backend engineer obsessed with performance & privacy  
+📦 Built [crab-clean](https://crates.io/crates/crab-clean) — 900+ downloads on crates.io  
+🔐 Deep diving into zk-SNARKs, building **SolidKYC** (zero-knowledge identity on Solana)  
+⚡ **50-80%** production API optimization through profiling & system design  
+🏆 **Top 3%** - 11th place @ IEEE Summer of Code (500+ participants)  
+💡 Always exploring and expanding horizons  
+🎯 Eager to contribute to open source
 
 ```rust
 impl Developer for GlitchyMoon {
@@ -31,60 +31,50 @@ impl Developer for GlitchyMoon {
 
 ---
 
-### 🛠️ current tech stack
+### 🌐 Socials:
 
-<p align="left">
-    <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust" alt="Rust" />
-    <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=9945FF" alt="Solana" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-a-8bb28128a/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/AdithyaA548097)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Glithcy_moon_69)
 
 ---
 
-### 🔥 current stack
+### 💻 Tech Stack:
 
-```rust
-let glitchymoon = Developer {
-    code: vec!["Rust", "TypeScript", "JavaScript", "Python"],
-    tools: vec!["Tokio", "Axum", "FastAPI", "React", "Next.js"],
-    architecture: vec!["Microservices", "Event-Driven", "Serverless"],
-    databases: vec!["PostgreSQL", "MongoDB", "Redis"],
-    currently_reading: "Moon Math Manual - Zero Knowledge Proofs",
-    current_project: "SolidKYC - ZK Identity Verification",
-    fun_fact: "I measure code quality in how few allocations it makes"
-};
-```
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=9945FF)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
----
-### ⚡ recent activity
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-<!--START_SECTION:activity-->
-1. ❌ Merged PR [#9](undefined) in [adithya-adee/SolidKYC](https://github.com/adithya-adee/SolidKYC)
-2. ❌ Labeled PR [#9](undefined) in [adithya-adee/SolidKYC](https://github.com/adithya-adee/SolidKYC)
-3. 💪 Opened PR [#9](undefined) in [adithya-adee/SolidKYC](https://github.com/adithya-adee/SolidKYC)
-4. ❌ Assigned PR [#9](undefined) in [adithya-adee/SolidKYC](https://github.com/adithya-adee/SolidKYC)
-5. ❌ Merged PR [#8](undefined) in [adithya-adee/SolidKYC](https://github.com/adithya-adee/SolidKYC)
-<!--END_SECTION:activity-->
----
-
-### 🎯 featured projects
-
-- [**crab-clean**](https://github.com/adithya-adee/crab-clean) - Rust-based cleanup tool
-- [**CodeSync**](https://github.com/devgambo/CodeSync) - Real-time code collaboration
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### connect
+### ⏱️ WakaTime Stats:
 
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />](https://x.com/AdithyaA593326)
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/adithya-a-8bb28128a/)
-[<img align="left" alt="Reddit" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" />](https://www.reddit.com/user/Glithcy_moon_69)
-
-<br />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
-💬 [adithya25905@gmail.com](mailto:adithya25905@gmail.com) | 🌐 [portfolio](https://adithya-anand-portfolio.vercel.app)
+### 🎯 Featured Projects:
+
+- [**crab-clean**](https://github.com/adithya-adee/crab-clean) - Rust-based cleanup tool with 900+ downloads
+- [**CodeSync**](https://github.com/devgambo/CodeSync) - Real-time code collaboration platform
+- [**SolidKYC**](https://github.com/adithya-adee/solidkyc) - Zero-knowledge identity verification on Solana
+
+---
+
+💬 **Reach me:** [adithya25905@gmail.com](mailto:adithya25905@gmail.com) | 🌐 **Portfolio:** [adithya-anand-portfolio.vercel.app](https://adithya-anand-portfolio.vercel.app)
