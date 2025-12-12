@@ -1,16 +1,20 @@
-### Hey, I'm Adithya A @glitchymoon 👋
+## 🌙 Adithya A
 
-Self-taught developer building with rust, exploring zero-knowledge cryptography, and shipping privacy-first systems. currently building privacy-preserving solutions and seeking full-time backend/solana roles.
+**Rust** · **Zero-Knowledge** · **Privacy-First** · **Blockchain**
 
-Building **SolidKYC** - Building privacy-preserving identity solutions using zero-knowledge proofs on Solana
+Self-taught developer building privacy-preserving systems. Currently seeking full-time backend/Solana roles.
 
-**about me**
+Building **SolidKYC** - privacy-preserving identity verification using zero-knowledge proofs on Solana.
 
-- 💼 backend engineer obsessed with performance & privacy
-- 📦 built [crab-clean](https://crates.io/crates/crab-clean) — 900+ downloads on crates.io
-- 🔐 deep diving into zk-snarks, building solidkyc (zero-knowledge identity)
-- ⚡ optimized production apis by 50-80% through profiling & system design
-- 🏆 11th place @ ieee summer of code (500+ participants)
+---
+
+### about me
+
+- 💼 Backend engineer focused on performance & privacy
+- 📦 Built [crab-clean](https://crates.io/crates/crab-clean) — 900+ downloads on crates.io
+- 🔐 Deep diving into zk-SNARKs, building SolidKYC (zero-knowledge identity)
+- ⚡ **50-80%** production API optimization through profiling & system design
+- 🏆 **Top 3%** - 11th place @ IEEE Summer of Code (500+ participants)
 
 ```rust
 impl Developer for GlitchyMoon {
@@ -25,18 +29,22 @@ impl Developer for GlitchyMoon {
 }
 ```
 
-**languages & tools**
+---
 
-<code><img height="20" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+### 🛠️ current tech stack
 
-**🔥 current stack**
+<p align="left">
+    <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust" alt="Rust" />
+    <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=9945FF" alt="Solana" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+---
+
+### 🔥 current stack
 
 ```rust
 let glitchymoon = Developer {
@@ -50,32 +58,23 @@ let glitchymoon = Developer {
 };
 ```
 
-<!-- **📈 github stats**
+---
 
-<a href="https://github.com/adithya-adee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adithya-adee&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</a> 
-<a href="https://github.com/adithya-adee">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-adee&theme=dark&hide_border=true" />
-</a> -->
+### 🎯 featured projects
 
-**🎯 featured projects**
+- [**crab-clean**](https://github.com/adithya-adee/crab-clean) - Rust-based cleanup tool
+- [**CodeSync**](https://github.com/devgambo/CodeSync) - Real-time code collaboration
 
-<a href="https://github.com/adithya-adee/crab-clean">
-  [crab-clean]
-</a>
-<a href="https://github.com/devgambo/CodeSync">
-  [code sync]
-</a>
+---
 
-**connect with me:**
+### connect
 
-[<img align="left" alt="glitchymoon | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />](https://x.com/AdithyaA548097)
-[<img align="left" alt="glitchymoon | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/adithya-a-8bb28128a/)
-[<img align="left" alt="glitchymoon | Reddit" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" />](https://www.reddit.com/user/Glithcy_moon_69)
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />](https://x.com/AdithyaA593326)
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/adithya-a-8bb28128a/)
+[<img align="left" alt="Reddit" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" />](https://www.reddit.com/user/Glithcy_moon_69)
 
 <br />
 
 ---
 
-💬 reach me at [adithya25905@gmail.com](mailto:adithya25905@gmail.com) | 🌐 [portfolio](https://adithya-anand-portfolio.vercel.app)
+💬 [adithya25905@gmail.com](mailto:adithya25905@gmail.com) | 🌐 [portfolio](https://adithya-anand-portfolio.vercel.app)
