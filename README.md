@@ -26,6 +26,7 @@ impl Developer for GlitchyMoon {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-a-8bb28128a/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/AdithyaA548097)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Glithcy_moon_69)
+[![Peerlist](https://img.shields.io/badge/Peerlist-%23FF500.svg?style=for-the-badge&logo=Peerlist&logoColor=white)](https://peerlist.io/glitchy_moon)
 
 ---
 
@@ -76,4 +77,4 @@ Other         4 hrs 13 mins   ██▒░░░░░░░░░░░░░�
 
 ---
 
-💬 **Reach me:** [adithya25905@gmail.com](mailto:adithya25905@gmail.com) | 🌐 **Portfolio:** [adithya-anand-portfolio.vercel.app](https://adithya-anand-portfolio.vercel.app)
+💬 **Reach me:** [adithya25905@gmail.com](mailto:adithya25905@gmail.com) | 🌐 **Portfolio:** [glitchymoon.vercel.app](https://glitchymoon.vercel.app)
