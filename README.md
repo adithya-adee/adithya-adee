@@ -3,7 +3,7 @@
 
 🚀 Backend engineer obsessed with performance,design & privacy  
 📦 Built [crab-clean](https://crates.io/crates/crab-clean) — 900+ downloads on crates.io  
-🔐 Deep diving into zk-SNARKs, building protocol on Solana + Arcium
+🔐 Deep diving into zk-SNARKs, building protocol on Solana + Arcium <br/>
 🏆 **Top 3%** - 11th place @ IEEE Summer of Code (500+ participants)  
 💡 Always exploring and expanding horizons
 
