@@ -3,11 +3,9 @@
 
 🚀 Backend engineer obsessed with performance,design & privacy  
 📦 Built [crab-clean](https://crates.io/crates/crab-clean) — 900+ downloads on crates.io  
-🔐 Deep diving into zk-SNARKs, building **SolidKYC** (zero-knowledge identity on Solana)  
-⚡ **50-80%** production API optimization through profiling & system design  
+🔐 Deep diving into zk-SNARKs, building protocol on Solana + Arcium
 🏆 **Top 3%** - 11th place @ IEEE Summer of Code (500+ participants)  
-💡 Always exploring and expanding horizons  
-🎯 Eager to contribute to open source
+💡 Always exploring and expanding horizons
 
 <!--
 ```rust
