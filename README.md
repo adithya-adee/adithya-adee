@@ -56,11 +56,11 @@ impl Developer for GlitchyMoon {
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   11 hrs 52 mins        ████████████▒░░░░░░░░░░░░   49.10 %
-Rust         8 hrs 45 mins         █████████░░░░░░░░░░░░░░░░   36.20 %
-Markdown     1 hr 35 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-TOML         52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-Other        36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+JavaScript   10 hrs 18 mins        ████████████▓░░░░░░░░░░░░   50.30 %
+Rust         7 hrs 41 mins         █████████▒░░░░░░░░░░░░░░░   37.50 %
+Markdown     1 hr 6 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+TOML         52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+YAML         17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
