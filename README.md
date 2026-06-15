@@ -1,26 +1,11 @@
-### 👨‍💻 About Me:
+### 👨‍💻 About Me
 
-🛠️ Backend & Blockchain Engineer at **[Umbra Privacy](https://umbraprivacy.com)** — building privacy infrastructure
-🧮 Learning **Circom + abstract algebra** to strengthen cryptography & ZKP
-📦 Shipped [crab-clean](https://crates.io/crates/crab-clean) (926+ dl) and [solana-indexer-sdk](https://crates.io/crates/solana-indexer-sdk) on crates.io
-🔐 Writing Solana programs in **Pinocchio**, authoring zk-SNARK circuits with **Circom + snarkjs**
-🏆 **DevOps theme winner** @ Hack to the Future 4.0 · **Top 3% (11th / 500+)** @ IEEE Summer of Code 2025
+🛠️ Backend & Blockchain Engineer at **Umbra Privacy** — building privacy infrastructure<br>
+🧮 Learning **Circom + abstract algebra** to strengthen cryptography & ZKP<br>
+📦 Shipped **crab-clean** (926+ downloads) and **solana-indexer-sdk** on crates.io<br>
+🔐 Writing Solana programs in **Pinocchio**, authoring zk-SNARK circuits with **Circom + snarkjs**<br>
+🏆 **DevOps theme winner** @ Hack to the Future 4.0 · **Top 3% (11th / 500+)** @ IEEE Summer of Code 2025<br>
 💡 Always exploring and expanding horizons
-
-<!--
-```rust
-impl Developer for GlitchyMoon {
-    fn current_focus(&self) -> Vec<&str> {
-        vec![
-            "circom + abstract algebra",
-            "async rust (tokio + axum)",
-            "solana programs in pinocchio",
-            "zk-SNARK provers + ceremonies",
-        ]
-    }
-}
-```
--->
 
 ---
 
