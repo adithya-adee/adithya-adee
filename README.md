@@ -59,11 +59,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Circom       7 hrs 28 mins         ███████░░░░░░░░░░░░░░░░░░   28.45 %
-Rust         5 hrs 49 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
-Markdown     4 hrs 5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
-TypeScript   3 hrs 11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-Other        1 hr 48 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+Circom       7 hrs 37 mins         ██████░░░░░░░░░░░░░░░░░░░   24.05 %
+Rust         6 hrs 41 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.08 %
+Markdown     5 hrs 35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
+TypeScript   3 hrs 47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+Other        2 hrs 36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
 ```
 
 <!--END_SECTION:waka-->
