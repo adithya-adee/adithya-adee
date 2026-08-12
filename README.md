@@ -59,11 +59,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Circom       9 hrs 29 mins         ██████░░░░░░░░░░░░░░░░░░░   23.94 %
-Markdown     7 hrs 12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
-TeX          5 hrs 14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-Other        5 hrs 4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-TypeScript   4 hrs 26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+Other        7 hrs 24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.99 %
+Markdown     7 hrs 3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+Circom       5 hrs 18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
+TeX          5 hrs 14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+TypeScript   4 hrs 25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
 ```
 
 <!--END_SECTION:waka-->
