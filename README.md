@@ -59,11 +59,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        15 hrs 14 mins        ███████░░░░░░░░░░░░░░░░░░   28.63 %
-TypeScript   9 hrs 1 min           ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
-Markdown     5 hrs 48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-Solidity     5 hrs 44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-Rust         4 hrs 29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+Other        19 hrs 40 mins        ████████▓░░░░░░░░░░░░░░░░   34.41 %
+TypeScript   10 hrs 20 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
+Solidity     5 hrs 34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+Markdown     5 hrs 21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+HTML         4 hrs 35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
 ```
 
 <!--END_SECTION:waka-->
